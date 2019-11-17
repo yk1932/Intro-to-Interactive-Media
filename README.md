@@ -1,2 +1,2 @@
 # Intro-to-Interactive-Media
-Introduction to Interactive Media (Fall 2019)
+Welcome to Yeji's Interactive Media Repository (Fall 2019). 
