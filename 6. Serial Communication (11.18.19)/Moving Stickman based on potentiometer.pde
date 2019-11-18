@@ -1,4 +1,4 @@
-
+//Stickman original code credits to: geotheory https://gist.github.com/geotheory/5373003 
 import processing.serial.*;
 
 Serial myPort; //Create Object from Serial Class
