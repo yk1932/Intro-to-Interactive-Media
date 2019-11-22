@@ -9,7 +9,7 @@ Collection of Reading Responses to from various authors
     Access the original link to the reading [here](https://intro.nyuadim.com/wp-content/uploads/2015/08/Design_meets_disability.pdf)
     
 3. **Meaning of Computing (11.18.19)** <br>
-    Write (in your Github repository) at least three paragraphs about what computing means to you at this point. Reflect on       the conversations we’ve had in class, and look critically at your relationship with computing.<br><br>
+    Write (in your Github repository) at least three paragraphs about what computing means to you at this point. Reflect on       the conversations we’ve had in class, and look critically at your relationship with computing.<br>
     
 4. **Computer Vision for Artists (11.25.19)** <br>
-    Read Golan Levin’s notes on computer vision for artists and write a response in your repository <br><br>
+    Read Golan Levin’s notes on computer vision for artists and write a response in your repository. Access link [here](http://www.flong.com/texts/essays/essay_cvad/)  <br>
