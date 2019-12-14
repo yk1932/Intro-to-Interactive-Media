@@ -1,0 +1,1 @@
+This assignment uses OOP (Object Oriented Programming) using classes. The previous code was restructured using the classes structure to make it easeier to create different canvas of differing variable values. 
